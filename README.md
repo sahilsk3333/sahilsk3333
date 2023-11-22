@@ -1,6 +1,6 @@
-⭐ Hi, I’m **Sahil Khan**, pursuing Bachelor of Technology in Computer Science.*(2019-2023)*<br>
-⭐ I'm a creative Android Developer with experience of Android Architecture Components (Clean Architecture with MVVM) and building Multi module cutting-edge Android apps for mobile devices. Solid understanding of full mobile and software development life cycles and UI UX. Dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and 
-produce innovative applications.<br>
+⭐ Hi, I’m **Sahil Khan**<br>
+⭐ Android Developer with 3 years of experience. Skilled in Kotlin, Java, Firebase, Retrofit, Jetpack, DI, REST, Location-aware and Video-conferencing apps, building complex layouts in XML or Compose, Clean Architecture with MVVM, SOLID Principles, Cutting Edge Multi Module Applications. Dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications.
+<br>
 <!-- 📫 sahil.alwar.sk@gmail.com<br> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-SahilKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kh/)](https://www.linkedin.com/in/sahil-kh/)
